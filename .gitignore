@@ -178,3 +178,9 @@ yellow_tripdata_2021-01.csv
 #find . -size +100M | cat >> .gitignoreyellow_tripdata_2021-01.csv
 yellow_tripdata_2021-01.csv
 service_acct.json
+#wk5/fhvhv_tripdata_2021-01.csv
+./wk5/fhvhv_tripdata_2021-01.csv./wk1/nyc_taxi_postgres_data/base/16384/16385
+./wk5/fhvhv_tripdata_2021-01.csv
+./wk5/fhvhv_tripdata_2021-01.parquet
+wk5/fhvhv_tripdata_2021-01.csv
+wk5/fhvhv_tripdata_2021-01.parquet
