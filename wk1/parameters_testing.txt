@@ -55,14 +55,14 @@ python wk1/ingest_data.py \
 
 
 
-##docker build 
-docker build -t taxi_ingest:v006 .
+##docker build - run from wk1 folder
+docker build -t taxi_ingest:v007 .
 
 
-## docker for ingest_data
+## docker for ingest_data - run from wk1 folder
 docker run -it \
 --network=pg-network \
-  taxi_ingest:v006 \
+  taxi_ingest:v007 \
     --user=root \
     --password=root \
     --host=pg-database \
