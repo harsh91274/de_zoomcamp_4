@@ -184,3 +184,5 @@ service_acct.json
 ./wk5/fhvhv_tripdata_2021-01.parquet
 wk5/fhvhv_tripdata_2021-01.csv
 wk5/fhvhv_tripdata_2021-01.parquet
+wk5/data
+./wk5/data
