@@ -186,3 +186,5 @@ wk5/fhvhv_tripdata_2021-01.csv
 wk5/fhvhv_tripdata_2021-01.parquet
 wk5/data
 ./wk5/data
+./ML_with_spark/home-credit-default-risk/application_train.csv
+/ML_with_spark/home-credit-default-risk/application_train.csv
